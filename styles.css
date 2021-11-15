@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(243, 228, 255);
+}
+#example_float{
+    margin-left: 25px;
+    margin-bottom:25px;
+    float: right;
+    text-align: center;
+    color: rgba(217, 23, 235, 0.856);
+    border-style: groove;
+    border-color: rgb(112, 7, 250);
+    font-style: italic;
+}
+.lorem{
+    text-align: left;
+    color:rgb(155, 120, 252);
+    margin-left: 0.5cm;
+}
+#img1{
+    position: absolute;
+top: 350px; left: 50px;
+}
+
+#img2{
+    position:relative;
+    left: 1400px; top: 10px;
+}
